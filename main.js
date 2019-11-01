@@ -6,9 +6,8 @@ const path = require('path')
 //upg: commander (for advansed processes) .. like project name.
 
 let from = __dirname+'/templates/default'
-//let to = './app'
-let to = '.'
-if(!fs.existsSync(to+'/src')){ // upg: or??
+let to = './app'
+if(!fs.existsSync(to)){ // upg: or??
 	;(async n=>{
 		let {pre,post} = require(from+'/init.js')
 		
@@ -24,7 +23,7 @@ if(!fs.existsSync(to+'/src')){ // upg: or??
 
 	}//if
 else
-	console.log(to,'exists')
+	console.log(to,'exists.')
 
 
 
