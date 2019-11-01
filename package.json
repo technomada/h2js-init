@@ -1,6 +1,6 @@
 {
   "name": "h2js-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Setup a latest h2js web application development project environment.",
   "main": "main.js",
   "bin": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/technomada/h2js-init"
   },
   "author": "Adam",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fs-extra": "^8.1.0"
   }
