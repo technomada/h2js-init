@@ -1,0 +1,3 @@
+upg: plugin (git?) source templates h2js-game-template, h2js-chat-template, h2js-panel-template, etc. .. fetch during install to use.
+
+upg: question template npm run configure -- menu to setup specifics.

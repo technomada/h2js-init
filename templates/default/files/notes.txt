@@ -1,0 +1,22 @@
+Basic h2js application framework.
+-------------------------------
+
+$ npx h2js-init [application-name]
+
+$ cd [application-name]
+
+$ npm run build
+$ npm start (http://localhost:8000)
+
+================================
+
+edit /src files
+	- index.html
+	- app.js
+
+
+upload /dist files
+
+
+$ npm run upload (when configured with rsync)
+
