@@ -1,5 +1,7 @@
 # h2js-init
-Setup a current h2js development environment.
+Setup a h2js development environment.
+
+See: [h2js](https://github.com/technomada/h2js)
 
 ### TRY IT
 
